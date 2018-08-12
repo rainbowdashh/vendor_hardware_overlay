@@ -46,8 +46,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mia2 \
 	treble-overlay-xiaomi-mimax3 \
 	treble-overlay-xiaomi-redminote5 \
-	HardwareOverlayPicker \
-	QtiAudio
+	TrebleApp
 
 
 PRODUCT_PACKAGES += \
