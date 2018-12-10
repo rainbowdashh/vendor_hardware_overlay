@@ -15,6 +15,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-huawei-EML \
 	treble-overlay-huawei-CLT \
 	treble-overlay-huawei-telephony \
+    treble-overlay-samsung-s9-exynos \
 	treble-overlay-lg-g7 \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
