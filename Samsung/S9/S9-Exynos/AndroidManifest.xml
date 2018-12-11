@@ -3,6 +3,8 @@
     android:versionCode="1"
     android:versionName="1.0">
     <overlay android:targetPackage="android"
+            android:requiredSystemPropertyName="ro.product.board"
+            android:requiredSystemPropertyValue="+universal9810"
     android:priority="24"
     android:isStatic="true" />
 </manifest>
